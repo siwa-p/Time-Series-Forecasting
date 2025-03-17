@@ -14,13 +14,13 @@ digraph {
     3 -> 7 [label="yes" color="#FF0000"]
     3 -> 8 [label="no, missing" color="#0000FF"]
 
-    7 [ label="lead2<358675" ]
+    7 [ label="year<2006" ]
     7 -> 13 [label="yes" color="#FF0000"]
     7 -> 14 [label="no, missing" color="#0000FF"]
 
-    13 [ label="leaf=-7556.30615" ]
+    13 [ label="leaf=-7691.43848" ]
 
-    14 [ label="leaf=-2828.18652" ]
+    14 [ label="leaf=-3619.2439" ]
 
     8 [ label="leaf=-15331.1104" ]
 
@@ -28,7 +28,7 @@ digraph {
     4 -> 9 [label="yes" color="#FF0000"]
     4 -> 10 [label="no, missing" color="#0000FF"]
 
-    9 [ label="lead2<324708" ]
+    9 [ label="year<2005" ]
     9 -> 15 [label="yes" color="#FF0000"]
     9 -> 16 [label="no, missing" color="#0000FF"]
 
@@ -48,29 +48,29 @@ digraph {
     20 -> 27 [label="yes" color="#FF0000"]
     20 -> 28 [label="no, missing" color="#0000FF"]
 
-    27 [ label="leaf=2320.70215" ]
+    27 [ label="leaf=2429.36938" ]
 
-    28 [ label="leaf=-699.38916" ]
+    28 [ label="leaf=-272.448792" ]
 
     16 [ label="month<9" ]
     16 -> 21 [label="yes" color="#FF0000"]
     16 -> 22 [label="no, missing" color="#0000FF"]
 
-    21 [ label="lag2<344439" ]
+    21 [ label="month<5" ]
     21 -> 29 [label="yes" color="#FF0000"]
     21 -> 30 [label="no, missing" color="#0000FF"]
 
-    29 [ label="leaf=5138.32764" ]
+    29 [ label="leaf=5105.51953" ]
 
-    30 [ label="leaf=8743.30273" ]
+    30 [ label="leaf=8597.27246" ]
 
     22 [ label="year<2008" ]
     22 -> 31 [label="yes" color="#FF0000"]
     22 -> 32 [label="no, missing" color="#0000FF"]
 
-    31 [ label="leaf=2470.79272" ]
+    31 [ label="leaf=3380.42261" ]
 
-    32 [ label="leaf=-2375.60205" ]
+    32 [ label="leaf=-3880.95312" ]
 
     10 [ label="year<2011" ]
     10 -> 17 [label="yes" color="#FF0000"]
